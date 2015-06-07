@@ -1,18 +1,18 @@
 // The Server IP should be in exports.server and the port should be in exports.port
-exports.server = '107.161.19.92';
-exports.port = 8000;
+exports.server = 'lotus.kota.moe';
+exports.port = 80;
 
 // The Server ID. Example for play.pokemonshowdown.com the server id will be "showdown"
-exports.serverid = 'infinite';
+exports.serverid = 'eos';
 
 
 // The Bots name should go in exports.nick and password in exports.pass
-exports.nick = '1nside';
-exports.pass = 'botofinferno';
+exports.nick = 'Bot Of Sky';
+exports.pass = 'aaaaaa';
 
 
 // The rooms that should be joined. Joining Pokemon Showdown's Lobby isnt allowed at all..
-exports.rooms = ['The Razor League','The Inferno League'];
+exports.rooms = ['earth'];
 
 
 // Any private rooms that should be joined.
@@ -22,7 +22,7 @@ exports.privaterooms = [];
 // Note that using / and ! might be 'dangerous' since these are used in
 // Showdown itself.
 // Using only alphanumeric characters and spaces is not allowed.
-exports.commandcharacter = '.';
+exports.commandcharacter = '-';
 
 // The default rank is the minimum rank that can use a command in a room when
 // no rank is specified in settings.json
